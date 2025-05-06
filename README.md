@@ -102,7 +102,7 @@ Distributed under the **MIT License**. See `LICENSE` for details.
 
 ## 📫 Contact
 
-* **GitHub Issues**: [https://github.com/yourusername/shilpkar/issues](https://github.com/Saurabh-1435/shilpkar/issues)
+* **GitHub Issues**: [https://github.com/saurabh-1435/shilpkar/issues](https://github.com/Saurabh-1435/shilpkar/issues)
 * **Email**: [your.email@example.com](mailto:saurabhlakhan4545@gmail.com)
 
 ---
